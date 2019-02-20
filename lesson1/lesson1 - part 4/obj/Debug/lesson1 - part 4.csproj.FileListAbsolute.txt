@@ -1,0 +1,6 @@
+C:\Users\servi\Desktop\GeekBrains\Git\CSharp-part-1\lesson1\lesson1 - part 4\bin\Debug\lesson1 - part 4.exe.config
+C:\Users\servi\Desktop\GeekBrains\Git\CSharp-part-1\lesson1\lesson1 - part 4\bin\Debug\lesson1 - part 4.exe
+C:\Users\servi\Desktop\GeekBrains\Git\CSharp-part-1\lesson1\lesson1 - part 4\bin\Debug\lesson1 - part 4.pdb
+C:\Users\servi\Desktop\GeekBrains\Git\CSharp-part-1\lesson1\lesson1 - part 4\obj\Debug\lesson1 - part 4.csproj.CoreCompileInputs.cache
+C:\Users\servi\Desktop\GeekBrains\Git\CSharp-part-1\lesson1\lesson1 - part 4\obj\Debug\lesson1 - part 4.exe
+C:\Users\servi\Desktop\GeekBrains\Git\CSharp-part-1\lesson1\lesson1 - part 4\obj\Debug\lesson1 - part 4.pdb
