@@ -7,7 +7,7 @@
     <ProjectGuid>{54C5C79B-55A1-4809-BE18-8340DF7000BE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>lesson1___part_4</RootNamespace>
-    <AssemblyName>lesson1___part_4</AssemblyName>
+    <AssemblyName>lesson1 - part 4</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
