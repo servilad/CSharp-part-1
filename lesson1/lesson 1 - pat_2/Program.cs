@@ -16,7 +16,7 @@ namespace lesson_1___pat_2
             Console.WriteLine("Программа расчета индекса массы человекаа, введите личные данные");
             Console.WriteLine("Введите свой рос в метрах");
             high = int.Parse(Console.ReadLine());
-            Console.WriteLine("Введите свой вес  в киограммах");
+            Console.WriteLine("Введите свой вес  в килограммах");
             weight = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Ваше индекс массы = " + (weight/(high + high)) );
